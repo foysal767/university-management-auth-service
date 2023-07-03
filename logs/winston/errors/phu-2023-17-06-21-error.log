@@ -1,2 +1,0 @@
-Sat Jun 17 2023 21:45:56 [PHero] error:Failed to connect database querySrv ETIMEOUT _mongodb._tcp.cluster0.mxrfp9v.mongodb.net
-Sat Jun 17 2023 21:47:26 [PHero] error:Failed to connect database Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
